@@ -12,4 +12,4 @@ Your function must be printable with the << operator, such as:
 produce the same output as:
 	s << "{" << v[0] << ", " << v[1] << "}" << std::endl;
 
-You will find a man in this directory that must work with your class.
+You will find a main in this directory that must work with your class.
